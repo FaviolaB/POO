@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "Moran",
+    "email": "juan@gmail.com",
+    "telefono": "0909034576",
+    "ciudad": "Virgen De Fatima",
+    "direccion": "km"
+  },
+  {
+    "id": 2,
+    "nombre": "Gh",
+    "apellido": "F",
+    "email": "dgg@gmail.com",
+    "telefono": "1234567889",
+    "ciudad": "Milagro",
+    "direccion": "las flores"
+  }
+]

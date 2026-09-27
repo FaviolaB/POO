@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "nombre": "Faviola",
+    "apellido": "Barzola",
+    "email": "faviolabarzola3@gmail.com",
+    "carnet": "R453",
+    "notas": {
+      "Lengua": [
+        13.0
+      ],
+      "Matematicas": [
+        15.0
+      ]
+    },
+    "materias": [
+      "Lengua",
+      "Matematicas"
+    ]
+  }
+]
